@@ -1,5 +1,6 @@
 {
   "name": "agromanager-mcp",
+  "displayName": "Agromanager",
   "version": "1.0.0",
   "description": "Connects Claude to the Agromanager MCP server",
   "author": {
