@@ -8,5 +8,9 @@
   },
   "license": "LicenseRef-Agromanager-Proprietary",
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://www.agromanager.eu/privacy-policy/"
+  "privacyPolicyUrl": "https://www.agromanager.eu/privacy-policy/",
+  "homepage": "https://www.agromanager.eu",
+  "supportUrl": "https://support.agromanager.eu",
+  "repository": "https://github.com/agromanager/claude_plugin.git",
+  "termsOfServiceUrl": "https://www.agromanager.eu/gebruikersvoorwaarden/"
 }
