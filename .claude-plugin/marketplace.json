@@ -1,0 +1,13 @@
+{
+  "name": "agromanager-plugins",
+  "owner": {
+    "name": "Agromanager"
+  },
+  "plugins": [
+    {
+      "name": "agromanager-mcp",
+      "source": "./plugins/agromanager-mcp",
+      "description": "Connect Claude to the Agromanager MCP server"
+    }
+  ]
+}

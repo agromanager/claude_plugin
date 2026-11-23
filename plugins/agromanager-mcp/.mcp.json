@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "agromanager": {
+      "type": "http",
+      "url": "https://mcp.agromanager.eu/mcp",
+      "oauth": {
+        "clientId": "claude-plugin-prod",
+        "callbackPort": 8080,
+        "scopes": "openid profile email am_environments"
+      }
+    }
+  }
+}

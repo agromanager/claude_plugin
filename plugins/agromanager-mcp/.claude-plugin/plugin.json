@@ -1,0 +1,11 @@
+{
+  "name": "agromanager-mcp",
+  "version": "1.0.0",
+  "description": "Connects Claude to the Agromanager MCP server",
+  "author": {
+    "name": "Agromanager"
+  },
+  "license": "LicenseRef-Agromanager-Proprietary",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.agromanager.eu/privacy-policy/"
+}
