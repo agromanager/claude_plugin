@@ -20,14 +20,14 @@ OAuth-client `claude-plugin-prod` geregistreerd staan met:
 
 ```
 /plugin marketplace add agromanager/claude_plugin
-/plugin install agromanager-mcp@agromanager-plugins
+/plugin install agromanager-mcp@agromanager
 ```
 
 Of lokaal, vóór publicatie op GitHub:
 
 ```
 /plugin marketplace add ./claude_plugin
-/plugin install agromanager-mcp@agromanager-plugins
+/plugin install agromanager-mcp@agromanager
 ```
 
 Na installatie: `/mcp` uitvoeren om in te loggen en de beschikbare tools te

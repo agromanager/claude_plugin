@@ -1,5 +1,6 @@
 {
-  "name": "agromanager-plugins",
+  "name": "agromanager",
+  "description": "Official Claude plugins published by Agromanager, connecting Claude to the Agromanager MCP server.",
   "owner": {
     "name": "Agromanager"
   },
